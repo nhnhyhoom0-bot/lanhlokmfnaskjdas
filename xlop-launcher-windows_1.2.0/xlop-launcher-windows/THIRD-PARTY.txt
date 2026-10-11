@@ -1,0 +1,3 @@
+﻿xlop-launcher.exe in the quick-start package is the unmodified script launcher stub (gui-64.exe)
+distributed with setuptools 82.0.1 (MIT License, Copyright the setuptools authors).
+It simply opens xlop-launcher-script.pyw with the Python installed on the PC.

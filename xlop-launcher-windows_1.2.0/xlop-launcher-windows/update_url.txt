@@ -1,0 +1,2 @@
+﻿# رابط ملف latest.json لفحص التحديثات — سطر واحد، مثال:
+# https://github.com/OWNER/REPO/releases/latest/download/latest.json
